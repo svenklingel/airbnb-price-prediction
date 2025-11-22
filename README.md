@@ -4,7 +4,8 @@ Predict Airbnb listing prices using **CatBoost** and **XGBoost** regression mode
 
 ## Overview
 
-This project leverages Airbnb listing data to predict prices based on multiple features, such as location, room type, host activity, availability, proximity to attractions, and review statistics. The models are trained on log-transformed prices to improve prediction accuracy.
+This study highlights the potential of gradient boosting algorithms, such as CatBoost and XGBoost, in predicting Airbnb listing prices based on multiple features, such as location, room type, host activity, availability, proximity to attractions, and review statistics. Among the models tested, CatBoost demonstrated strong performance, particularly in handling categorical features, achieving an RMSE slightly better than XGBoost (0.338 vs. 0.339). Overall, the accommodation type and location of a listing play the most critical roles in price 
+prediction.
 
 ## Features Used
 
