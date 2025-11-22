@@ -1,6 +1,9 @@
 # Airbnb Price Prediction
 
 Predict Airbnb listing prices using **CatBoost** and **XGBoost** regression models with hyperparameter tuning via **Optuna**.
+Data Source: New York City Airbnb Open Data
+
+**Data Source:** [New York City Airbnb Open Data](https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data/data) (Kaggle)  
 
 ## Overview
 
